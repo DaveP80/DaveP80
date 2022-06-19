@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DaveP80
 - 👀 I’m interested in ...learning coding
 - 🌱 I’m currently learning ...java
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... building projects
 - 📫 How to reach me ...david654@revature.net
 
 <!---
