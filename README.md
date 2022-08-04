@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...my coding books
 - 🌱 I’m currently learning ...java
 - 💞️ I’m looking to collaborate on ... building projects
-- 📫 How to reach me ...david654@revature.net
+- 📫 How to reach me ...comment section
 
 <!---
 DaveP80/DaveP80 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
