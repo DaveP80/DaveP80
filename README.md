@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @DaveP80
 - 👀 I’m interested in ...my coding books
-- 🌱 I’m currently learning ...java
-- 💞️ I’m looking to collaborate on ... building projects
+- 🌱 I’m currently learning ...docker
+- 💞️ I’m looking to collaborate on ... Upwork projects
+      brycejones on upwork
 - 📫 How to reach me ...comment section
 
 <!---
