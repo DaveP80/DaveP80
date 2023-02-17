@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DaveP80
 - 👀 I’m interested in ...my coding books
-- 🌱 I’m currently learning ...docker
+- 🌱 I’m currently learning ...kubernetes
 - 💞️ I’m looking to collaborate on ... Upwork projects
 - 📫 How to reach me ...comment section
 
