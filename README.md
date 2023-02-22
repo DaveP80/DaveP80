@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DaveP80
+- 👋 Hi, I’m david paquette
 - 👀 I’m interested in ...my coding books
 - 🌱 I’m currently learning ...kubernetes
 - 💞️ I’m looking to collaborate on ... Upwork projects
