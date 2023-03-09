@@ -5,7 +5,7 @@
   <div style="width: 570px;">
     <img width="570" height="187" src="https://i.imgur.com/yBF5r79.jpg">
   </div>
-  <div style="width: 200px; margin-left: 10px;">
+  <div style="width: 200px">
     <img alt="pythonjsjava" width="200" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=davep80&hide=css,shell&theme=algolia&show_icons=true">
   </div>
 </div>
