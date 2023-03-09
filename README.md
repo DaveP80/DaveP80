@@ -1,8 +1,8 @@
 - 👋 Hi, I’m david paquette
 - 👀 I’m interested in ...my coding books
 - 💞️ I’m looking to collaborate on ... Upwork projects
-<div style="display: flex; display: inline-block">
-  <div style="margin-right: 20px;">
+<div style="display: grid; grid-template-columns: 570px 200px; column-gap: 0px;">
+  <div>
     <img width="570" height="187" src="https://i.imgur.com/yBF5r79.jpg">
   </div>
   <div>
