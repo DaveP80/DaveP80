@@ -1,7 +1,7 @@
 - 👋 Hi, I’m david paquette
 - 👀 I’m interested in ...my coding books
 - 💞️ I’m looking to collaborate on ... Upwork projects
-<div style="display: flex;">
+<div style="display: flex; justify-content: space-between;">
   <div style="width: 570px;">
     <img width="570" height="187" src="https://i.imgur.com/yBF5r79.jpg">
   </div>
