@@ -1,12 +1,12 @@
 - 👋 Hi, I’m david paquette
 - 👀 I’m interested in ...my coding books
 - 💞️ I’m looking to collaborate on ... Upwork projects
-<div style="display: flex; justify-content: space-between;">
-  <div style="width: 570px;">
+<div style="display: flex;">
+  <div style="margin-right: 20px;">
     <img width="570" height="187" src="https://i.imgur.com/yBF5r79.jpg">
   </div>
-  <div style="width: 200px">
-    <img alt="pythonjsjava" width="200" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=davep80&hide=css,shell&theme=algolia&show_icons=true">
+  <div>
+    <img width="200" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=davep80&hide=css,shell&theme=algolia&show_icons=true">
   </div>
 </div>
 
