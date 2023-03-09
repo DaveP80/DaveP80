@@ -1,9 +1,9 @@
 - 👋 Hi, I’m david paquette
 - 👀 I’m interested in ...my coding books
 - 💞️ I’m looking to collaborate on ... Upwork projects
-![Imgur](https://i.imgur.com/yBF5r79.jpg)
+<img align="right" width="570" height="187" src="https://i.imgur.com/yBF5r79.jpg">
+<img align="left" width="200" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=davep80&hide=css,shell&theme=algolia&show_icons=true">
 
-&nbsp;&nbsp;&nbsp;[![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=davep80&hide=css,shell&theme=algolia&show_icons=true)](https://github.com/DaveP80)
 
 <!---
 DaveP80/DaveP80 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
