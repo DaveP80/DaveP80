@@ -3,10 +3,10 @@
 - 💞️ I’m looking to collaborate on ... Upwork projects
 <div style="display: grid; grid-template-columns: 70% 30%; column-gap: 10%;">
   <div>
-    <img width="55%" height="auto" src="https://i.imgur.com/yBF5r79.jpg">
+    <img width="40%" height="auto" src="https://i.imgur.com/yBF5r79.jpg">
   </div>
   <div>
-    <img width="55%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs?username=davep80&hide=css,shell&theme=algolia&show_icons=true">
+    <img width="40%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs?username=davep80&hide=css,shell&theme=algolia&show_icons=true">
   </div>
 </div>
 <!---
