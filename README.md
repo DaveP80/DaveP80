@@ -1,4 +1,4 @@
-<div style="background-image: url('https://i.imgur.com/FFoAbo2.jpg');">
+<div style="background-image: url('rmbackground.jpg');">
   <div>
     <a href="https://twitter.com/ctdavidpaquette" target="_blank">
       <img src="https://i.imgur.com/olxqMnL.png" alt="Twitter icon">
