@@ -14,7 +14,7 @@
   </div>
   <div style="display: inline-block;">
     <div style="width: 50%; display: inline-block;">
-      <img width="60%" height="auto" src="https://i.imgur.com/yBF5r79.jpg">
+      <img width="60%" height="auto" src="javarmimage.jpeg">
     </div>
     <div style="width: 50%; display: inline-block;">
       <img width="60%" height="auto"
