@@ -1,6 +1,8 @@
+<div>
 <a href="https://twitter.com/ctdavidpaquette">
   <img src="https://i.imgur.com/olxqMnL.png" alt="Twitter icon">
 </a>
+</div>
 - 👋 Hi, I’m david paquette
 - 👀 I’m interested in ...my coding books
 - 💞️ I’m looking to collaborate on ... Upwork projects
