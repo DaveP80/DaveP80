@@ -1,4 +1,16 @@
-<div>
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My Markdown Document with a Background Image</title>
+    <style>
+      body {
+        background-image: url('https://i.imgur.com/FFoAbo2.jpg');
+        background-size: cover;
+      }
+    </style>
+  </head>
+  <body>
+    <div>
 <a href="https://twitter.com/ctdavidpaquette" target="_blank">
   <img src="https://i.imgur.com/olxqMnL.png" alt="Twitter icon">
 </a>
@@ -16,7 +28,5 @@
     <img width="60%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs?username=davep80&hide=css,shell&theme=algolia&show_icons=true">
   </div>
 </div>
-<!---
-DaveP80/DaveP80 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  </body>
+</html>
