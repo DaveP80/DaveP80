@@ -2,7 +2,7 @@
   <head>
     <title>My Markdown Document with a Background Image</title>
     <style>
-      body {
+      .container {
         background-image: url('https://i.imgur.com/FFoAbo2.jpg');
         background-size: cover;
       }
