@@ -1,6 +1,6 @@
 <div>
-<a href="https://twitter.com/ctdavidpaquette" target="_blank">
-  <img src="https://i.imgur.com/olxqMnL.png" alt="Twitter icon">
+<a href="https://twitter.com/ctdavidpaquette">
+  <img src="https://i.imgur.com/olxqMnL.png" target="_blank" alt="Twitter icon">
 </a>
 </div>
 - 👋 Hi, I’m david paquette
