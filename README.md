@@ -1,12 +1,14 @@
 <div>
-<a href="https://twitter.com/ctdavidpaquette">
-  <img src="https://i.imgur.com/olxqMnL.png" target="_blank" alt="Twitter icon">
+<a href="https://twitter.com/ctdavidpaquette" target="_blank">
+  <img src="https://i.imgur.com/olxqMnL.png" alt="Twitter icon">
 </a>
 </div>
-- 👋 Hi, I’m david paquette
-- 👀 I’m interested in ...my coding books
-- 💞️ I’m looking to collaborate on ... Upwork projects
-<div style="display: inline-block">
+<ul>
+  <li>👋 Hi, I’m david paquette</li>
+  <li>👀 I’m interested in ...my coding books</li>
+  <li>💞️ I’m looking to collaborate on ... Upwork projects</li>
+</ul>
+<div style="display: inline-block;">
   <div style="width: 50%; display: inline-block;">
     <img width="60%" height="auto" src="https://i.imgur.com/yBF5r79.jpg">
   </div>
