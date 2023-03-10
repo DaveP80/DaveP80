@@ -1,4 +1,5 @@
-<div style="background-image: url('rmbackground.jpeg');">
+<div style="background-image: url('rmbackground.jpeg'); width: 800px;
+        height: 400px;">
   <div>
     <a href="https://twitter.com/ctdavidpaquette" target="_blank">
       <img src="https://i.imgur.com/olxqMnL.png" alt="Twitter icon">
