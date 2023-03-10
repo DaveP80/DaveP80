@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
   <head>
     <title>My Markdown Document with a Background Image</title>
