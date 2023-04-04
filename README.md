@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm David Paquette</h1>
+<p align="left">Hi 👋, I'm David Paquette</p>
 <p align="left"> <a href="https://twitter.com/ctdavidpaquette" target="blank"><img src="https://img.shields.io/twitter/follow/ctdavidpaquette?logo=twitter&style=for-the-badge" alt="ctdavidpaquette" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
