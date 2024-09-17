@@ -3,6 +3,7 @@ I am a back-end and front-end developer in the middle of a fellowship that is Re
 If you have a tech stack that you think is worth using to build out a project, I'm willing to make some code and push to a repo on this profile.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://twitter.com/ctdavidpaquette" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ctdavidpaquette" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
