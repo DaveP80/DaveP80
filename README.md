@@ -1,5 +1,4 @@
 <p align="left">Hi 👋</p>
-<p align="left"> <a href="https://twitter.com/ctdavidpaquette" target="blank"><img src="https://img.shields.io/twitter/follow/ctdavidpaquette?logo=twitter&style=for-the-badge" alt="ctdavidpaquette" /></a> </p>
 I am a back-end and front-end developer in the middle of a fellowship that is React JS focused.  Reach out to me if you need a developer who can code with Java, Python and SQL, as these are my favorite back end and data languages.
 If you have a tech stack that you think is worth using to build out a project, I'm willing to make some code and push to a repo on this profile.
 <h3 align="left">Connect with me:</h3>
